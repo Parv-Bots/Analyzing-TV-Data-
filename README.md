@@ -1,4 +1,4 @@
-# Analyzing TV Data
+# TV Data Analysis
 
 Utilizing data manipulation and visualization to conduct 
 exploratory analysis on two TV datasets for:
